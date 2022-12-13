@@ -4,8 +4,12 @@
 	var tela = document.querySelector("canvas");
 	var pincel = tela.getContext("2d");
 
+	pincel.fillStroke = "black";
+	pincel.strokeRect(0, 0, 50, 50);
+
 	pincel.fillStyle = "green";
 	pincel.fillRect(0, 0, 50, 50);
+	pincel.fillRect(100, 0, 50, 50);
 
 
 
