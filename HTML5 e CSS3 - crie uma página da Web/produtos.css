@@ -60,3 +60,19 @@ nav a {
 .produto-descricao {
 	font-size: 18px;
 }
+
+.produtos li:hover {
+    border-color: #C78C19;
+}
+
+.produtos li:hover {
+    border-color: #C78C19;
+}
+
+.produtos li:active {
+    border-color: #088C19;    
+}
+
+.produtos li:hover h2 {
+    font-size: 34px;
+}
