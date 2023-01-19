@@ -29,9 +29,9 @@ nav a {
 }
 
 .produtos {
-	width: 940px;
-	margin: 0 auto;
-	padding: 50px 0;
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
 }
 
 .produtos li {
@@ -47,18 +47,18 @@ nav a {
 }
 
 .produtos h2 {
-	font-size: 30px;
-	font-weight: bold;
+    font-size: 30px;
+    font-weight: bold;
 }
 
 .produto-preco {
-	font-size: 30px;
-	font-weight: bold;
-	margin-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
 }
 
 .produto-descricao {
-	font-size: 18px;
+    font-size: 18px;
 }
 
 .produtos li:hover {
@@ -70,7 +70,7 @@ nav a {
 }
 
 .produtos li:active {
-    border-color: #088C19;    
+    border-color: #088C19;
 }
 
 .produtos li:hover h2 {
@@ -111,3 +111,4 @@ form input {
     padding: 10px 25px;
     width: 50%;
 }
+
