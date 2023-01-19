@@ -116,3 +116,23 @@ form legend {
 .checkbox {
     margin: 20px 0;
 }
+
+.enviar {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+    background: #C78C19;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border: 0;
+    border-radius: 10px;
+    transition: 1s background;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background: #68490c;
+}
